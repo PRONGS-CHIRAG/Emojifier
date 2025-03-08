@@ -16,7 +16,10 @@ Emojifier/
 │── Emoji_v3a.ipynb      # Jupyter Notebook containing model training and evaluation
 │── utils.py             # Utility functions for processing and modeling
 │── emo_utils.py         # Additional helper functions 
-│── test_utils.py        # Test functions for validation 
+│── test_utils.py        # Test functions for validation
+│── generateTestCases.py        # Test case generation functions
+│── data       # Folder containing data
+│── test_utils.py        # Folder containing images of figures used in the notebook
 ```
 
 ## Dependencies
