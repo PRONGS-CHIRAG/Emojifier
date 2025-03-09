@@ -60,4 +60,6 @@ To run the model, follow these steps:
 ## License
 This project is open-source and available under the MIT License.
 
+---
+**Author:** Chirag N Vijay  
 
